@@ -1180,17 +1180,11 @@ void MapPort(bool)
 #endif
 
 
-
-
-
-
-
-
-
 // DNS seeds
 // Each pair gives a source name and a seed name.
 // The first name is used as information source for addrman.
 // The second name should resolve to a list of seed addresses.
+
 static const char *strMainNetDNSSeed[][2] = {
 	{"ozc-seed01.chainworksindustries.com", "ozc-seed01.chainworksindustries.com"},
 	{"ozc-seed02.chainworksindustries.com", "ozc-seed02.chainworksindustries.com"},
@@ -1217,16 +1211,61 @@ static const char *strMainNetDNSSeed[][2] = {
 	{"ozc-seed23.chainworksindustries.com", "ozc-seed23.chainworksindustries.com"},
 	{"ozc-seed24.chainworksindustries.com", "ozc-seed24.chainworksindustries.com"},
 	{"ozc-seed25.chainworksindustries.com", "ozc-seed25.chainworksindustries.com"},
+	{"ozc-seed26.chainworksindustries.com", "ozc-seed26.chainworksindustries.com"},
+	{"ozc-seed27.chainworksindustries.com", "ozc-seed27.chainworksindustries.com"},
+	{"ozc-seed28.chainworksindustries.com", "ozc-seed28.chainworksindustries.com"},
+	{"ozc-seed29.chainworksindustries.com", "ozc-seed29.chainworksindustries.com"},
+	{"ozc-seed30.chainworksindustries.com", "ozc-seed30.chainworksindustries.com"},
+	{"ozc-seed31.chainworksindustries.com", "ozc-seed31.chainworksindustries.com"},
+	{"ozc-seed32.chainworksindustries.com", "ozc-seed32.chainworksindustries.com"},
+	{"ozc-seed33.chainworksindustries.com", "ozc-seed33.chainworksindustries.com"},
+	{"ozc-seed34.chainworksindustries.com", "ozc-seed34.chainworksindustries.com"},
+	{"ozc-seed35.chainworksindustries.com", "ozc-seed35.chainworksindustries.com"},
+	{"ozc-seed36.chainworksindustries.com", "ozc-seed36.chainworksindustries.com"},
+	{"ozc-seed37.chainworksindustries.com", "ozc-seed37.chainworksindustries.com"},
+	{"ozc-seed38.chainworksindustries.com", "ozc-seed38.chainworksindustries.com"},
+	{"ozc-seed39.chainworksindustries.com", "ozc-seed39.chainworksindustries.com"},
+	{"ozc-seed40.chainworksindustries.com", "ozc-seed40.chainworksindustries.com"},
+	{"ozc-seed41.chainworksindustries.com", "ozc-seed41.chainworksindustries.com"},
+	{"ozc-seed42.chainworksindustries.com", "ozc-seed42.chainworksindustries.com"},
+	{"ozc-seed43.chainworksindustries.com", "ozc-seed43.chainworksindustries.com"},
+	{"ozc-seed44.chainworksindustries.com", "ozc-seed44.chainworksindustries.com"},
+	{"ozc-seed45.chainworksindustries.com", "ozc-seed45.chainworksindustries.com"},
+	{"ozc-seed46.chainworksindustries.com", "ozc-seed46.chainworksindustries.com"},
+	{"ozc-seed47.chainworksindustries.com", "ozc-seed47.chainworksindustries.com"},
+	{"ozc-seed48.chainworksindustries.com", "ozc-seed48.chainworksindustries.com"},
+	{"ozc-seed49.chainworksindustries.com", "ozc-seed49.chainworksindustries.com"},
+	{"ozc-seed50.chainworksindustries.com", "ozc-seed50.chainworksindustries.com"},
+	{"ozc-seed51.chainworksindustries.com", "ozc-seed51.chainworksindustries.com"},
+	{"ozc-seed52.chainworksindustries.com", "ozc-seed52.chainworksindustries.com"},
+	{"ozc-seed53.chainworksindustries.com", "ozc-seed53.chainworksindustries.com"},
+	{"ozc-seed54.chainworksindustries.com", "ozc-seed54.chainworksindustries.com"},
+	{"ozc-seed55.chainworksindustries.com", "ozc-seed55.chainworksindustries.com"},
+	{"ozc-seed56.chainworksindustries.com", "ozc-seed56.chainworksindustries.com"},
+	{"ozc-seed57.chainworksindustries.com", "ozc-seed57.chainworksindustries.com"},
+	{"ozc-seed58.chainworksindustries.com", "ozc-seed58.chainworksindustries.com"},
+	{"ozc-seed59.chainworksindustries.com", "ozc-seed59.chainworksindustries.com"},
+	{"ozc-seed60.chainworksindustries.com", "ozc-seed60.chainworksindustries.com"},
+	{"ozc-seed61.chainworksindustries.com", "ozc-seed61.chainworksindustries.com"},
+	{"ozc-seed62.chainworksindustries.com", "ozc-seed62.chainworksindustries.com"},
+	{"ozc-seed63.chainworksindustries.com", "ozc-seed63.chainworksindustries.com"},
+	{"ozc-seed64.chainworksindustries.com", "ozc-seed64.chainworksindustries.com"},
+	{"ozc-seed65.chainworksindustries.com", "ozc-seed65.chainworksindustries.com"},
+	{"ozc-seed66.chainworksindustries.com", "ozc-seed66.chainworksindustries.com"},
+	{"ozc-seed67.chainworksindustries.com", "ozc-seed67.chainworksindustries.com"},
+	{"ozc-seed68.chainworksindustries.com", "ozc-seed68.chainworksindustries.com"},
+	{"ozc-seed69.chainworksindustries.com", "ozc-seed69.chainworksindustries.com"},
+	{"ozc-seed70.chainworksindustries.com", "ozc-seed70.chainworksindustries.com"},
+	{NULL, NULL}
 
 // below are the old seed ip addresses - preserved for archival purposes ...
 //    {"ozziecoin.com", "seed1.ozziecoin.com"},
 //	{"ozziecoin.com", "seed2.ozziecoin.com"},
-	{NULL, NULL}
 };
 
 static const char *strTestNetDNSSeed[][2] = {
-    {NULL, NULL},
-    {NULL, NULL}
+	{NULL, NULL},
+	{NULL, NULL}
 };
 
 void ThreadDNSAddressSeed()

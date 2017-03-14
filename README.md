@@ -1,7 +1,7 @@
 Ozziecoin integration/staging tree
 ================================
 
-http://www.ozziecoin.com
+http://www.ozziecoin.com/
 
 Copyright (c) 2009-2013 Bitcoin Developers
 Copyright (c) 2013-2014 DarkCoin Developers
