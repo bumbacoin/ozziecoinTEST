@@ -1257,11 +1257,13 @@ static const char *strMainNetDNSSeed[][2] = {
 	{"ozc-seed69.chainworksindustries.com", "ozc-seed69.chainworksindustries.com"},
 	{"ozc-seed70.chainworksindustries.com", "ozc-seed70.chainworksindustries.com"},
 	{NULL, NULL}
+	
+};
 
 // below are the old seed ip addresses - preserved for archival purposes ...
 //    {"ozziecoin.com", "seed1.ozziecoin.com"},
 //	{"ozziecoin.com", "seed2.ozziecoin.com"},
-};
+
 
 static const char *strTestNetDNSSeed[][2] = {
 	{NULL, NULL},
