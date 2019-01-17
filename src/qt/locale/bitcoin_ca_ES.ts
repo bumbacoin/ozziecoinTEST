@@ -4,13 +4,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Ozziecoin</source>
-        <translation>Sobre Ozziecoin</translation>
+        <source>About Ozzietest</source>
+        <translation>Sobre Ozzietest</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Ozziecoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Ozziecoin&lt;/b&gt; versió</translation>
+        <source>&lt;b&gt;Ozzietest&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Ozzietest&lt;/b&gt; versió</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -29,7 +29,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+0"/>
-        <source>The Ozziecoin developers</source>
+        <source>The Ozzietest developers</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -62,8 +62,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your Ozziecoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Aquestes són les teves adreces Ozziecoin per a rebre pagaments. Pot interesar-te proveïr diferents adreces a cadascun dels enviadors així pots identificar qui et va pagant.</translation>
+        <source>These are your Ozzietest addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Aquestes són les teves adreces Ozzietest per a rebre pagaments. Pot interesar-te proveïr diferents adreces a cadascun dels enviadors així pots identificar qui et va pagant.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -77,8 +77,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Ozziecoin address</source>
-        <translation>Signa el missatge per provar que ets propietari de l&apos;adreça Ozziecoin</translation>
+        <source>Sign a message to prove you own a Ozzietest address</source>
+        <translation>Signa el missatge per provar que ets propietari de l&apos;adreça Ozzietest</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -102,8 +102,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified Ozziecoin address</source>
-        <translation>Verificar un missatge per asegurar-se que ha estat signat amb una adreça Ozziecoin específica</translation>
+        <source>Verify a message to ensure it was signed with a specified Ozzietest address</source>
+        <translation>Verificar un missatge per asegurar-se que ha estat signat amb una adreça Ozzietest específica</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -117,8 +117,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your Ozziecoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Aquestes són la seva adreça de Ozziecoin per enviar els pagaments. Sempre revisi la quantitat i l&apos;adreça del destinatari abans transferència de monedes.</translation>
+        <source>These are your Ozzietest addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Aquestes són la seva adreça de Ozzietest per enviar els pagaments. Sempre revisi la quantitat i l&apos;adreça del destinatari abans transferència de monedes.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -243,8 +243,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+1"/>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR OZZIECOINS&lt;/b&gt;!</source>
-        <translation>Advertència: Si encripteu el vostre moneder i perdeu la constrasenya, &lt;b&gt;PERDREU TOTS ELS VOSTRES OZZIECOINS&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR OZZIETESTS&lt;/b&gt;!</source>
+        <translation>Advertència: Si encripteu el vostre moneder i perdeu la constrasenya, &lt;b&gt;PERDREU TOTS ELS VOSTRES OZZIETESTS&lt;/b&gt;!</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -270,8 +270,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-56"/>
-        <source>Ozziecoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your ozziecoins from being stolen by malware infecting your computer.</source>
-        <translation>Ozziecoin es tancarà ara per acabar el procés d&apos;encriptació. Recorda que encriptar el teu moneder no protegeix completament els teus ozziecoins de ser robades per programari maliciós instal·lat al teu ordinador.</translation>
+        <source>Ozzietest will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your ozzietests from being stolen by malware infecting your computer.</source>
+        <translation>Ozzietest es tancarà ara per acabar el procés d&apos;encriptació. Recorda que encriptar el teu moneder no protegeix completament els teus ozzietests de ser robades per programari maliciós instal·lat al teu ordinador.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -369,8 +369,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Ozziecoin</source>
-        <translation>Mostra informació sobre Ozziecoin</translation>
+        <source>Show information about Ozzietest</source>
+        <translation>Mostra informació sobre Ozzietest</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -414,13 +414,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a Ozziecoin address</source>
-        <translation>Enviar monedes a una adreça Ozziecoin</translation>
+        <source>Send coins to a Ozzietest address</source>
+        <translation>Enviar monedes a una adreça Ozzietest</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for Ozziecoin</source>
-        <translation>Modificar les opcions de configuració per ozziecoin</translation>
+        <source>Modify configuration options for Ozzietest</source>
+        <translation>Modificar les opcions de configuració per ozzietest</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -450,8 +450,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>Ozziecoin</source>
-        <translation>Ozziecoin</translation>
+        <source>Ozzietest</source>
+        <translation>Ozzietest</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -475,8 +475,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About Ozziecoin</source>
-        <translation>&amp;Sobre Ozziecoin</translation>
+        <source>&amp;About Ozzietest</source>
+        <translation>&amp;Sobre Ozzietest</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -495,13 +495,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your Ozziecoin addresses to prove you own them</source>
-        <translation>Signa el missatges amb la seva adreça de Ozziecoin per provar que les poseeixes</translation>
+        <source>Sign messages with your Ozzietest addresses to prove you own them</source>
+        <translation>Signa el missatges amb la seva adreça de Ozzietest per provar que les poseeixes</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified Ozziecoin addresses</source>
-        <translation>Verificar els missatges per assegurar-te que han estat signades amb una adreça Ozziecoin específica.</translation>
+        <source>Verify messages to ensure they were signed with specified Ozzietest addresses</source>
+        <translation>Verificar els missatges per assegurar-te que han estat signades amb una adreça Ozzietest específica.</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -531,13 +531,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+47"/>
-        <source>Ozziecoin client</source>
-        <translation>Client Ozziecoin</translation>
+        <source>Ozzietest client</source>
+        <translation>Client Ozzietest</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to Ozziecoin network</source>
-        <translation><numerusform>%n connexió activa a la xarxa Ozziecoin</numerusform><numerusform>%n connexions actives a la xarxa Ozziecoin</numerusform></translation>
+        <source>%n active connection(s) to Ozzietest network</source>
+        <translation><numerusform>%n connexió activa a la xarxa Ozzietest</numerusform><numerusform>%n connexions actives a la xarxa Ozzietest</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -647,8 +647,8 @@ Address: %4
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid Ozziecoin address or malformed URI parameters.</source>
-        <translation>la URI no pot ser processada! Això es pot ser causat per una adreça Ozziecoin invalida o paràmetres URI malformats.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Ozzietest address or malformed URI parameters.</source>
+        <translation>la URI no pot ser processada! Això es pot ser causat per una adreça Ozzietest invalida o paràmetres URI malformats.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -662,8 +662,8 @@ Address: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. Ozziecoin can no longer continue safely and will quit.</source>
-        <translation>Ha tingut lloc un error fatal. Ozziecoin no pot continuar executant-se de manera segura i es tancará.</translation>
+        <source>A fatal error occurred. Ozzietest can no longer continue safely and will quit.</source>
+        <translation>Ha tingut lloc un error fatal. Ozzietest no pot continuar executant-se de manera segura i es tancará.</translation>
     </message>
 </context>
 <context>
@@ -728,8 +728,8 @@ Address: %4
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Ozziecoin address.</source>
-        <translation>L&apos;adreça introduida &quot;%1&quot; no és una adreça Ozziecoin valida.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Ozzietest address.</source>
+        <translation>L&apos;adreça introduida &quot;%1&quot; no és una adreça Ozzietest valida.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -747,8 +747,8 @@ Address: %4
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>Ozziecoin-Qt</source>
-        <translation>Ozziecoin-Qt</translation>
+        <source>Ozzietest-Qt</source>
+        <translation>Ozzietest-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -810,13 +810,13 @@ Address: %4
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Ozziecoin after logging in to the system.</source>
-        <translation>Iniciar automàticament Ozziecoin després de l&apos;inici de sessió del sistema.</translation>
+        <source>Automatically start Ozzietest after logging in to the system.</source>
+        <translation>Iniciar automàticament Ozzietest després de l&apos;inici de sessió del sistema.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Ozziecoin on system login</source>
-        <translation>&amp;Iniciar Ozziecoin al inici de sessió del sistema.</translation>
+        <source>&amp;Start Ozzietest on system login</source>
+        <translation>&amp;Iniciar Ozzietest al inici de sessió del sistema.</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -835,8 +835,8 @@ Address: %4
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Ozziecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Obrir el port del client de Ozziecoin al router de forma automàtica. Això només funciona quan el teu router implementa UPnP i l&apos;opció està activada.</translation>
+        <source>Automatically open the Ozzietest client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Obrir el port del client de Ozzietest al router de forma automàtica. Això només funciona quan el teu router implementa UPnP i l&apos;opció està activada.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -845,8 +845,8 @@ Address: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Ozziecoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Connectar a la xarxa Ozziecoin a través de un SOCKS proxy (per exemple connectant a través de Tor).</translation>
+        <source>Connect to the Ozzietest network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Connectar a la xarxa Ozzietest a través de un SOCKS proxy (per exemple connectant a través de Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -920,8 +920,8 @@ Address: %4
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Ozziecoin.</source>
-        <translation>Aquí pots definir el llenguatge de l&apos;aplicatiu. Aquesta configuració tindrà efecte un cop es reiniciï Ozziecoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Ozzietest.</source>
+        <translation>Aquí pots definir el llenguatge de l&apos;aplicatiu. Aquesta configuració tindrà efecte un cop es reiniciï Ozzietest.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -935,8 +935,8 @@ Address: %4
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Ozziecoin addresses in the transaction list or not.</source>
-        <translation>Mostrar adreces Ozziecoin als llistats de transaccions o no.</translation>
+        <source>Whether to show Ozzietest addresses in the transaction list or not.</source>
+        <translation>Mostrar adreces Ozzietest als llistats de transaccions o no.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -987,8 +987,8 @@ Address: %4
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Ozziecoin.</source>
-        <translation>Aquesta configuració tindrà efecte un cop es reiniciï Ozziecoin.</translation>
+        <source>This setting will take effect after restarting Ozzietest.</source>
+        <translation>Aquesta configuració tindrà efecte un cop es reiniciï Ozzietest.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1006,8 +1006,8 @@ Address: %4
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Ozziecoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>La informació mostrada pot no estar al día. El teu moneder es sincronitza automàticament amb la xarxa Ozziecoin un cop s&apos;ha establert connexió, però aquest proces no s&apos;ha completat encara.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Ozzietest network after a connection is established, but this process has not completed yet.</source>
+        <translation>La informació mostrada pot no estar al día. El teu moneder es sincronitza automàticament amb la xarxa Ozzietest un cop s&apos;ha establert connexió, però aquest proces no s&apos;ha completat encara.</translation>
     </message>
     <message>
         <location line="-124"/>
@@ -1060,8 +1060,8 @@ Address: %4
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start ozziecoin: click-to-pay handler</source>
-        <translation>No es pot iniciar ozziecoin: manejador clicla-per-pagar</translation>
+        <source>Cannot start ozzietest: click-to-pay handler</source>
+        <translation>No es pot iniciar ozzietest: manejador clicla-per-pagar</translation>
     </message>
 </context>
 <context>
@@ -1210,8 +1210,8 @@ Address: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Ozziecoin-Qt help message to get a list with possible Ozziecoin command-line options.</source>
-        <translation>Mostrar el missatge d&apos;ajuda de Ozziecoin-Qt per a obtenir un llistat de possibles ordres per a la línia d&apos;ordres de Ozziecoin.</translation>
+        <source>Show the Ozzietest-Qt help message to get a list with possible Ozzietest command-line options.</source>
+        <translation>Mostrar el missatge d&apos;ajuda de Ozzietest-Qt per a obtenir un llistat de possibles ordres per a la línia d&apos;ordres de Ozzietest.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1230,13 +1230,13 @@ Address: %4
     </message>
     <message>
         <location line="-104"/>
-        <source>Ozziecoin - Debug window</source>
-        <translation>Ozziecoin -Finestra de debug</translation>
+        <source>Ozzietest - Debug window</source>
+        <translation>Ozzietest -Finestra de debug</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Ozziecoin Core</source>
-        <translation>Nucli de Ozziecoin</translation>
+        <source>Ozzietest Core</source>
+        <translation>Nucli de Ozzietest</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1245,8 +1245,8 @@ Address: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Ozziecoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Obrir el dietari de debug de Ozziecoin del directori de dades actual. Aixó pot trigar uns quants segons per a dietàris grossos.</translation>
+        <source>Open the Ozzietest debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Obrir el dietari de debug de Ozzietest del directori de dades actual. Aixó pot trigar uns quants segons per a dietàris grossos.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1255,8 +1255,8 @@ Address: %4
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the Ozziecoin RPC console.</source>
-        <translation>Benvingut a la consola RPC de Ozziecoin</translation>
+        <source>Welcome to the Ozzietest RPC console.</source>
+        <translation>Benvingut a la consola RPC de Ozzietest</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1439,8 +1439,8 @@ Address: %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Ozziecoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Introdueixi una adreça de Ozziecoin (per exemple Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a Ozzietest address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Introdueixi una adreça de Ozzietest (per exemple Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1504,8 +1504,8 @@ Address: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Ozziecoin address</source>
-        <translation>Signa el missatge per provar que ets propietari d&apos;aquesta adreça Ozziecoin</translation>
+        <source>Sign the message to prove you own this Ozzietest address</source>
+        <translation>Signa el missatge per provar que ets propietari d&apos;aquesta adreça Ozzietest</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1540,8 +1540,8 @@ Address: %4
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Ozziecoin address</source>
-        <translation>Verificar el missatge per assegurar-se que ha estat signat amb una adreça Ozziecoin específica</translation>
+        <source>Verify the message to ensure it was signed with the specified Ozzietest address</source>
+        <translation>Verificar el missatge per assegurar-se que ha estat signat amb una adreça Ozzietest específica</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1556,8 +1556,8 @@ Address: %4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Ozziecoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Introdueixi una adreça de Ozziecoin (per exemple Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a Ozzietest address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Introdueixi una adreça de Ozzietest (per exemple Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1566,8 +1566,8 @@ Address: %4
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Ozziecoin signature</source>
-        <translation>Introduïr una clau Ozziecoin</translation>
+        <source>Enter Ozzietest signature</source>
+        <translation>Introduïr una clau Ozzietest</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -1640,7 +1640,7 @@ Address: %4
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
-        <source>The Ozziecoin developers</source>
+        <source>The Ozzietest developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2178,8 +2178,8 @@ Address: %4
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>Ozziecoin version</source>
-        <translation>Versió de Ozziecoin</translation>
+        <source>Ozzietest version</source>
+        <translation>Versió de Ozzietest</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2188,8 +2188,8 @@ Address: %4
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or ozziecoind</source>
-        <translation>Enviar comanda a -servidor o ozziecoind</translation>
+        <source>Send command to -server or ozzietestd</source>
+        <translation>Enviar comanda a -servidor o ozzietestd</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -2208,13 +2208,13 @@ Address: %4
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: ozziecoin.conf)</source>
-        <translation>Especificat arxiu de configuració (per defecte: ozziecoin.conf)</translation>
+        <source>Specify configuration file (default: ozzietest.conf)</source>
+        <translation>Especificat arxiu de configuració (per defecte: ozzietest.conf)</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: ozziecoind.pid)</source>
-        <translation>Especificar arxiu pid (per defecte: ozziecoind.pid)</translation>
+        <source>Specify pid file (default: ozzietestd.pid)</source>
+        <translation>Especificar arxiu pid (per defecte: ozzietestd.pid)</translation>
     </message>
     <message>
         <location line="-1"/>
@@ -2291,15 +2291,15 @@ Address: %4
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=ozziecoinrpc
+rpcuser=ozzietestrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Ozziecoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Ozzietest Alert&quot; admin@foo.com
 </source>
-        <translation>%s has de establir una contrasenya RPC a l&apos;arxiu de configuració:\n%s\nEs recomana que useu la següent constrasenya aleatòria:\nrpcuser=ozziecoinrpc\nrpcpassword=%s\n(no necesiteu recordar aquesta contrsenya)\nEl nom d&apos;usuari i contrasenya NO HAN de ser els mateixos.\nSi l&apos;arxiu no existeix, crea&apos;l amb els permisos d&apos;arxiu de només lectura per al propietari.\nTambé es recomana establir la notificació d&apos;alertes i així seràs notificat de les incidències;\nper exemple: alertnotify=echo %%s | mail -s &quot;Ozziecoin Alert&quot; admin@foo.com</translation>
+        <translation>%s has de establir una contrasenya RPC a l&apos;arxiu de configuració:\n%s\nEs recomana que useu la següent constrasenya aleatòria:\nrpcuser=ozzietestrpc\nrpcpassword=%s\n(no necesiteu recordar aquesta contrsenya)\nEl nom d&apos;usuari i contrasenya NO HAN de ser els mateixos.\nSi l&apos;arxiu no existeix, crea&apos;l amb els permisos d&apos;arxiu de només lectura per al propietari.\nTambé es recomana establir la notificació d&apos;alertes i així seràs notificat de les incidències;\nper exemple: alertnotify=echo %%s | mail -s &quot;Ozzietest Alert&quot; admin@foo.com</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2313,8 +2313,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Ozziecoin Alert&quot; admin@fo
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Ozziecoin is probably already running.</source>
-        <translation>No es pot bloquejar el directori de dades %s. Probablement Ozziecoin ja estigui en execució.</translation>
+        <source>Cannot obtain a lock on data directory %s. Ozzietest is probably already running.</source>
+        <translation>No es pot bloquejar el directori de dades %s. Probablement Ozzietest ja estigui en execució.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2358,8 +2358,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Ozziecoin Alert&quot; admin@fo
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Ozziecoin will not work properly.</source>
-        <translation>Advertència: Si us plau comprovi que la data i hora del seu computador siguin correctes! Si el seu rellotge està mal configurat, Ozziecoin no funcionará de manera apropiada.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Ozzietest will not work properly.</source>
+        <translation>Advertència: Si us plau comprovi que la data i hora del seu computador siguin correctes! Si el seu rellotge està mal configurat, Ozzietest no funcionará de manera apropiada.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2608,8 +2608,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Ozziecoin Alert&quot; admin@fo
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the Ozziecoin Wiki for SSL setup instructions)</source>
-        <translation>Opcions SSL: (veure la Wiki de Ozziecoin per a instruccions de configuració SSL)</translation>
+        <source>SSL options: (see the Ozzietest Wiki for SSL setup instructions)</source>
+        <translation>Opcions SSL: (veure la Wiki de Ozzietest per a instruccions de configuració SSL)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2798,13 +2798,13 @@ for example: alertnotify=echo %%s | mail -s &quot;Ozziecoin Alert&quot; admin@fo
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Ozziecoin</source>
-        <translation>Error carregant wallet.dat: El moneder requereix una versió de Ozziecoin més moderna</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Ozzietest</source>
+        <translation>Error carregant wallet.dat: El moneder requereix una versió de Ozzietest més moderna</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart Ozziecoin to complete</source>
-        <translation>El moneder necesita ser re-escrit: re-inicia Ozziecoin per a completar la tasca</translation>
+        <source>Wallet needed to be rewritten: restart Ozzietest to complete</source>
+        <translation>El moneder necesita ser re-escrit: re-inicia Ozzietest per a completar la tasca</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2863,8 +2863,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Ozziecoin Alert&quot; admin@fo
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. Ozziecoin is probably already running.</source>
-        <translation>Impossible d&apos;unir %s en aquest ordinador. Probablement Ozziecoin ja estigui en execució.</translation>
+        <source>Unable to bind to %s on this computer. Ozzietest is probably already running.</source>
+        <translation>Impossible d&apos;unir %s en aquest ordinador. Probablement Ozzietest ja estigui en execució.</translation>
     </message>
     <message>
         <location line="+64"/>

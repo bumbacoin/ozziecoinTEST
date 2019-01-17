@@ -2,8 +2,8 @@
 // Copyright (c) 2013 Primecoin developers
 // Distributed under conditional MIT/X11 open source software license
 // see the accompanying file COPYING
-#ifndef OZZIECOIN_CHECKPOINTSYNC_H
-#define OZZIECOIN_CHECKPOINTSYNC_H
+#ifndef OZZIETEST_CHECKPOINTSYNC_H
+#define OZZIETEST_CHECKPOINTSYNC_H
 
 #include "net.h"
 #include "util.h"

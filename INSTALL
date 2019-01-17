@@ -1,9 +1,9 @@
-Building Ozziecoin
+Building Ozzietest
 
-See doc/readme-qt.rst for instructions on building Ozziecoin-Qt,
+See doc/readme-qt.rst for instructions on building Ozzietest-Qt,
 the intended-for-end-users, nice-graphical-interface, reference
-implementation of Ozziecoin.
+implementation of Ozzietest.
 
-See doc/build-*.txt for instructions on building ozziecoind,
+See doc/build-*.txt for instructions on building ozzietestd,
 the intended-for-services, no-graphical-interface, reference
-implementation of Ozziecoin.
+implementation of Ozzietest.

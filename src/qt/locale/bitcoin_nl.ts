@@ -4,13 +4,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Ozziecoin</source>
-        <translation>Over Ozziecoin</translation>
+        <source>About Ozzietest</source>
+        <translation>Over Ozzietest</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Ozziecoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Ozziecoin&lt;/b&gt; versie</translation>
+        <source>&lt;b&gt;Ozzietest&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Ozzietest&lt;/b&gt; versie</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -34,8 +34,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="+0"/>
-        <source>The Ozziecoin developers</source>
-        <translation>De Ozziecoin-ontwikkelaars</translation>
+        <source>The Ozzietest developers</source>
+        <translation>De Ozzietest-ontwikkelaars</translation>
     </message>
 </context>
 <context>
@@ -67,8 +67,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your Ozziecoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Dit zijn uw Ozziecoinadressen om betalingen mee te ontvangen. U kunt er voor kiezen om een uniek adres aan te maken voor elke afzender. Op deze manier kunt u bijhouden wie al aan u betaald heeft.</translation>
+        <source>These are your Ozzietest addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Dit zijn uw Ozzietestadressen om betalingen mee te ontvangen. U kunt er voor kiezen om een uniek adres aan te maken voor elke afzender. Op deze manier kunt u bijhouden wie al aan u betaald heeft.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -82,8 +82,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Ozziecoin address</source>
-        <translation>Onderteken een bericht om te bewijzen dat u een bepaald Ozziecoinadres bezit</translation>
+        <source>Sign a message to prove you own a Ozzietest address</source>
+        <translation>Onderteken een bericht om te bewijzen dat u een bepaald Ozzietestadres bezit</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -107,8 +107,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified Ozziecoin address</source>
-        <translation>Controleer een bericht om te verifiëren dat het gespecificeerde Ozziecoinadres het bericht heeft ondertekend.</translation>
+        <source>Verify a message to ensure it was signed with a specified Ozzietest address</source>
+        <translation>Controleer een bericht om te verifiëren dat het gespecificeerde Ozzietestadres het bericht heeft ondertekend.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -122,8 +122,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your Ozziecoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Dit zijn uw Ozziecoinadressen om betalingen mee te verzenden. Check altijd het bedrag en het ontvangende adres voordat u uw ozziecoins verzendt.</translation>
+        <source>These are your Ozzietest addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Dit zijn uw Ozzietestadressen om betalingen mee te verzenden. Check altijd het bedrag en het ontvangende adres voordat u uw ozzietests verzendt.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -248,8 +248,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="+1"/>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR OZZIECOINS&lt;/b&gt;!</source>
-        <translation>Waarschuwing: Als u uw portemonnee versleutelt en uw wachtwoord vergeet, zult u &lt;b&gt;AL UW OZZIECOINS VERLIEZEN&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR OZZIETESTS&lt;/b&gt;!</source>
+        <translation>Waarschuwing: Als u uw portemonnee versleutelt en uw wachtwoord vergeet, zult u &lt;b&gt;AL UW OZZIETESTS VERLIEZEN&lt;/b&gt;!</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -275,8 +275,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-56"/>
-        <source>Ozziecoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your ozziecoins from being stolen by malware infecting your computer.</source>
-        <translation>Ozziecoin zal nu afsluiten om het versleutelingsproces te voltooien. Onthoud dat het versleutelen van uw portemonnee u niet volledig kan beschermen: Malware kan uw computer infecteren en uw ozziecoins stelen.</translation>
+        <source>Ozzietest will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your ozzietests from being stolen by malware infecting your computer.</source>
+        <translation>Ozzietest zal nu afsluiten om het versleutelingsproces te voltooien. Onthoud dat het versleutelen van uw portemonnee u niet volledig kan beschermen: Malware kan uw computer infecteren en uw ozzietests stelen.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -374,8 +374,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Ozziecoin</source>
-        <translation>Laat informatie zien over Ozziecoin</translation>
+        <source>Show information about Ozzietest</source>
+        <translation>Laat informatie zien over Ozzietest</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -419,13 +419,13 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a Ozziecoin address</source>
-        <translation>Verstuur munten naar een Ozziecoinadres</translation>
+        <source>Send coins to a Ozzietest address</source>
+        <translation>Verstuur munten naar een Ozzietestadres</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for Ozziecoin</source>
-        <translation>Wijzig instellingen van Ozziecoin</translation>
+        <source>Modify configuration options for Ozzietest</source>
+        <translation>Wijzig instellingen van Ozzietest</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -455,8 +455,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>Ozziecoin</source>
-        <translation>Ozziecoin</translation>
+        <source>Ozzietest</source>
+        <translation>Ozzietest</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -480,8 +480,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About Ozziecoin</source>
-        <translation>&amp;Over Ozziecoin</translation>
+        <source>&amp;About Ozzietest</source>
+        <translation>&amp;Over Ozzietest</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -500,13 +500,13 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your Ozziecoin addresses to prove you own them</source>
-        <translation>Onderteken berichten met uw Ozziecoinadressen om te bewijzen dat u deze adressen bezit</translation>
+        <source>Sign messages with your Ozzietest addresses to prove you own them</source>
+        <translation>Onderteken berichten met uw Ozzietestadressen om te bewijzen dat u deze adressen bezit</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified Ozziecoin addresses</source>
-        <translation>Verifiëer handtekeningen om zeker te zijn dat de berichten zijn ondertekend met de gespecificeerde Ozziecoinadressen</translation>
+        <source>Verify messages to ensure they were signed with specified Ozzietest addresses</source>
+        <translation>Verifiëer handtekeningen om zeker te zijn dat de berichten zijn ondertekend met de gespecificeerde Ozzietestadressen</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -536,13 +536,13 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="+47"/>
-        <source>Ozziecoin client</source>
-        <translation>Ozziecoin client</translation>
+        <source>Ozzietest client</source>
+        <translation>Ozzietest client</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to Ozziecoin network</source>
-        <translation><numerusform>%n actieve connectie naar Ozziecoinnetwerk</numerusform><numerusform>%n actieve connecties naar Ozziecoinnetwerk</numerusform></translation>
+        <source>%n active connection(s) to Ozzietest network</source>
+        <translation><numerusform>%n actieve connectie naar Ozzietestnetwerk</numerusform><numerusform>%n actieve connecties naar Ozzietestnetwerk</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -607,7 +607,7 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     <message>
         <location line="+70"/>
         <source>This transaction is over the size limit. You can still send it for a fee of %1, which goes to the nodes that process your transaction and helps to support the network. Do you want to pay the fee?</source>
-        <translation>Deze transactie overschrijdt de groottelimiet. Om de transactie alsnog te versturen kunt u transactiekosten betalen van %1. Deze transactiekosten gaan naar de nodes die uw transactie verwerken en het helpt op deze manier bij het ondersteunen van het Ozziecoinnetwerk. Wilt u de transactiekosten betalen?</translation>
+        <translation>Deze transactie overschrijdt de groottelimiet. Om de transactie alsnog te versturen kunt u transactiekosten betalen van %1. Deze transactiekosten gaan naar de nodes die uw transactie verwerken en het helpt op deze manier bij het ondersteunen van het Ozzietestnetwerk. Wilt u de transactiekosten betalen?</translation>
     </message>
     <message>
         <location line="-140"/>
@@ -656,8 +656,8 @@ Adres: %4
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid Ozziecoin address or malformed URI parameters.</source>
-        <translation>URI kan niet worden geïnterpreteerd. Dit kan komen door een ongeldig Ozziecoinadres of misvormde URI-parameters.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Ozzietest address or malformed URI parameters.</source>
+        <translation>URI kan niet worden geïnterpreteerd. Dit kan komen door een ongeldig Ozzietestadres of misvormde URI-parameters.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -671,8 +671,8 @@ Adres: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. Ozziecoin can no longer continue safely and will quit.</source>
-        <translation>Er is een fatale fout opgetreden. Ozziecoin kan niet meer veilig doorgaan en zal nu afgesloten worden.</translation>
+        <source>A fatal error occurred. Ozzietest can no longer continue safely and will quit.</source>
+        <translation>Er is een fatale fout opgetreden. Ozzietest kan niet meer veilig doorgaan en zal nu afgesloten worden.</translation>
     </message>
 </context>
 <context>
@@ -737,8 +737,8 @@ Adres: %4
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Ozziecoin address.</source>
-        <translation>Het opgegeven adres &quot;%1&quot; is een ongeldig Ozziecoinadres</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Ozzietest address.</source>
+        <translation>Het opgegeven adres &quot;%1&quot; is een ongeldig Ozzietestadres</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -756,8 +756,8 @@ Adres: %4
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>Ozziecoin-Qt</source>
-        <translation>Ozziecoin-Qt</translation>
+        <source>Ozzietest-Qt</source>
+        <translation>Ozzietest-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -819,13 +819,13 @@ Adres: %4
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Ozziecoin after logging in to the system.</source>
-        <translation>Start Ozziecoin automatisch na inloggen in het systeem</translation>
+        <source>Automatically start Ozzietest after logging in to the system.</source>
+        <translation>Start Ozzietest automatisch na inloggen in het systeem</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Ozziecoin on system login</source>
-        <translation>Start &amp;Ozziecoin bij het inloggen in het systeem</translation>
+        <source>&amp;Start Ozzietest on system login</source>
+        <translation>Start &amp;Ozzietest bij het inloggen in het systeem</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -844,8 +844,8 @@ Adres: %4
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Ozziecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Open de Ozziecoin-poort automatisch op de router. Dit werkt alleen als de router UPnP ondersteunt en het aanstaat.</translation>
+        <source>Automatically open the Ozzietest client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Open de Ozzietest-poort automatisch op de router. Dit werkt alleen als de router UPnP ondersteunt en het aanstaat.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -854,8 +854,8 @@ Adres: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Ozziecoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Verbind met het Ozziecoin-netwerk via een SOCKS-proxy (bijv. wanneer u via Tor wilt verbinden)</translation>
+        <source>Connect to the Ozzietest network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Verbind met het Ozzietest-netwerk via een SOCKS-proxy (bijv. wanneer u via Tor wilt verbinden)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -929,8 +929,8 @@ Adres: %4
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Ozziecoin.</source>
-        <translation>De taal van de gebruikersinterface kan hier ingesteld worden. Deze instelling zal pas van kracht worden nadat Ozziecoin herstart wordt.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Ozzietest.</source>
+        <translation>De taal van de gebruikersinterface kan hier ingesteld worden. Deze instelling zal pas van kracht worden nadat Ozzietest herstart wordt.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -944,8 +944,8 @@ Adres: %4
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Ozziecoin addresses in the transaction list or not.</source>
-        <translation>Of Ozziecoinadressen getoond worden in de transactielijst</translation>
+        <source>Whether to show Ozzietest addresses in the transaction list or not.</source>
+        <translation>Of Ozzietestadressen getoond worden in de transactielijst</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -996,8 +996,8 @@ Adres: %4
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Ozziecoin.</source>
-        <translation>Deze instelling zal pas van kracht worden na het herstarten van Ozziecoin.</translation>
+        <source>This setting will take effect after restarting Ozzietest.</source>
+        <translation>Deze instelling zal pas van kracht worden na het herstarten van Ozzietest.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1015,8 +1015,8 @@ Adres: %4
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Ozziecoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>De weergegeven informatie kan verouderd zijn. Uw portemonnee synchroniseert automaticsh met het Ozziecoinnetwerk nadat een verbinding is gelegd, maar dit proces is nog niet voltooid.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Ozzietest network after a connection is established, but this process has not completed yet.</source>
+        <translation>De weergegeven informatie kan verouderd zijn. Uw portemonnee synchroniseert automaticsh met het Ozzietestnetwerk nadat een verbinding is gelegd, maar dit proces is nog niet voltooid.</translation>
     </message>
     <message>
         <location line="-124"/>
@@ -1069,8 +1069,8 @@ Adres: %4
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start ozziecoin: click-to-pay handler</source>
-        <translation>Kan ozziecoin niet starten: click-to-pay handler</translation>
+        <source>Cannot start ozzietest: click-to-pay handler</source>
+        <translation>Kan ozzietest niet starten: click-to-pay handler</translation>
     </message>
 </context>
 <context>
@@ -1219,8 +1219,8 @@ Adres: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Ozziecoin-Qt help message to get a list with possible Ozziecoin command-line options.</source>
-        <translation>Toon het OzziecoinQt-hulpbericht voor een lijst met mogelijke Ozziecoin commandoregel-opties.</translation>
+        <source>Show the Ozzietest-Qt help message to get a list with possible Ozzietest command-line options.</source>
+        <translation>Toon het OzzietestQt-hulpbericht voor een lijst met mogelijke Ozzietest commandoregel-opties.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1239,13 +1239,13 @@ Adres: %4
     </message>
     <message>
         <location line="-104"/>
-        <source>Ozziecoin - Debug window</source>
-        <translation>Ozziecoin-debugscherm</translation>
+        <source>Ozzietest - Debug window</source>
+        <translation>Ozzietest-debugscherm</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Ozziecoin Core</source>
-        <translation>Ozziecoin Kern</translation>
+        <source>Ozzietest Core</source>
+        <translation>Ozzietest Kern</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1254,8 +1254,8 @@ Adres: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Ozziecoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Open het Ozziecoindebug-logbestand van de huidige datamap. Dit kan een aantal seconden duren voor grote logbestanden.</translation>
+        <source>Open the Ozzietest debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Open het Ozzietestdebug-logbestand van de huidige datamap. Dit kan een aantal seconden duren voor grote logbestanden.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1264,8 +1264,8 @@ Adres: %4
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the Ozziecoin RPC console.</source>
-        <translation>Welkom bij de Ozziecoin RPC-console.</translation>
+        <source>Welcome to the Ozzietest RPC console.</source>
+        <translation>Welkom bij de Ozzietest RPC-console.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1448,8 +1448,8 @@ Adres: %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Ozziecoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Vul een Ozziecoinadres in (bijv. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a Ozzietest address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Vul een Ozzietestadres in (bijv. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1513,8 +1513,8 @@ Adres: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Ozziecoin address</source>
-        <translation>Onderteken een bericht om te bewijzen dat u een bepaald Ozziecoinadres bezit</translation>
+        <source>Sign the message to prove you own this Ozzietest address</source>
+        <translation>Onderteken een bericht om te bewijzen dat u een bepaald Ozzietestadres bezit</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1549,8 +1549,8 @@ Adres: %4
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Ozziecoin address</source>
-        <translation>Controleer een bericht om te verifiëren dat het gespecificeerde Ozziecoinadres het bericht heeft ondertekend.</translation>
+        <source>Verify the message to ensure it was signed with the specified Ozzietest address</source>
+        <translation>Controleer een bericht om te verifiëren dat het gespecificeerde Ozzietestadres het bericht heeft ondertekend.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1565,8 +1565,8 @@ Adres: %4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Ozziecoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Vul een Ozziecoinadres in (bijv. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a Ozzietest address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Vul een Ozzietestadres in (bijv. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1575,8 +1575,8 @@ Adres: %4
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Ozziecoin signature</source>
-        <translation>Voer Ozziecoin-handtekening in</translation>
+        <source>Enter Ozzietest signature</source>
+        <translation>Voer Ozzietest-handtekening in</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -1649,8 +1649,8 @@ Adres: %4
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
-        <source>The Ozziecoin developers</source>
-        <translation>De Ozziecoin-ontwikkelaars</translation>
+        <source>The Ozzietest developers</source>
+        <translation>De Ozzietest-ontwikkelaars</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2187,8 +2187,8 @@ Adres: %4
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>Ozziecoin version</source>
-        <translation>Ozziecoinversie</translation>
+        <source>Ozzietest version</source>
+        <translation>Ozzietestversie</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2197,8 +2197,8 @@ Adres: %4
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or ozziecoind</source>
-        <translation>Stuur commando naar -server of ozziecoind</translation>
+        <source>Send command to -server or ozzietestd</source>
+        <translation>Stuur commando naar -server of ozzietestd</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -2217,14 +2217,14 @@ Adres: %4
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: ozziecoin.conf)</source>
-        <translation>Specificeer configuratiebestand (standaard: ozziecoin.conf)
+        <source>Specify configuration file (default: ozzietest.conf)</source>
+        <translation>Specificeer configuratiebestand (standaard: ozzietest.conf)
 </translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: ozziecoind.pid)</source>
-        <translation>Specificeer pid-bestand (standaard: ozziecoind.pid)
+        <source>Specify pid file (default: ozzietestd.pid)</source>
+        <translation>Specificeer pid-bestand (standaard: ozzietestd.pid)
 </translation>
     </message>
     <message>
@@ -2302,23 +2302,23 @@ Adres: %4
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=ozziecoinrpc
+rpcuser=ozzietestrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Ozziecoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Ozzietest Alert&quot; admin@foo.com
 </source>
         <translation>%s, u moet een RPC-wachtwoord instellen in het configuratiebestand: %s
 U wordt aangeraden het volgende willekeurige wachtwoord te gebruiken:
-rpcuser=ozziecoinrpc
+rpcuser=ozzietestrpc
 rpcpassword=%s
 (u hoeft dit wachtwoord niet te onthouden)
 De gebruikersnaam en wachtwoord mogen niet hetzelfde zijn.
 Als het bestand niet bestaat, make hem dan aan met leesrechten voor enkel de eigenaar.
 Het is ook aan te bevelen &quot;alertnotify&quot; in te stellen zodat u op de hoogte gesteld wordt van problemen;
-for example: alertnotify=echo %%s | mail -s &quot;Ozziecoin Alert&quot; admin@foo.com</translation>
+for example: alertnotify=echo %%s | mail -s &quot;Ozzietest Alert&quot; admin@foo.com</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2332,8 +2332,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Ozziecoin Alert&quot; admin@fo
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Ozziecoin is probably already running.</source>
-        <translation>Kan geen lock op de datamap %s verkrijgen. Ozziecoin draait vermoedelijk reeds.</translation>
+        <source>Cannot obtain a lock on data directory %s. Ozzietest is probably already running.</source>
+        <translation>Kan geen lock op de datamap %s verkrijgen. Ozzietest draait vermoedelijk reeds.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2377,8 +2377,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Ozziecoin Alert&quot; admin@fo
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Ozziecoin will not work properly.</source>
-        <translation>Waarschuwing: Controleer dat de datum en tijd op uw computer correct zijn ingesteld. Als uw klok fout staat zal Ozziecoin niet correct werken.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Ozzietest will not work properly.</source>
+        <translation>Waarschuwing: Controleer dat de datum en tijd op uw computer correct zijn ingesteld. Als uw klok fout staat zal Ozzietest niet correct werken.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2627,8 +2627,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Ozziecoin Alert&quot; admin@fo
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the Ozziecoin Wiki for SSL setup instructions)</source>
-        <translation>SSL-opties: (zie de Ozziecoin wiki voor SSL-instructies)</translation>
+        <source>SSL options: (see the Ozzietest Wiki for SSL setup instructions)</source>
+        <translation>SSL-opties: (zie de Ozzietest wiki voor SSL-instructies)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2817,13 +2817,13 @@ for example: alertnotify=echo %%s | mail -s &quot;Ozziecoin Alert&quot; admin@fo
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Ozziecoin</source>
-        <translation>Fout bij laden wallet.dat: Portemonnee vereist een nieuwere versie van Ozziecoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Ozzietest</source>
+        <translation>Fout bij laden wallet.dat: Portemonnee vereist een nieuwere versie van Ozzietest</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart Ozziecoin to complete</source>
-        <translation>Portemonnee moest herschreven worden: Herstart Ozziecoin om te voltooien</translation>
+        <source>Wallet needed to be rewritten: restart Ozzietest to complete</source>
+        <translation>Portemonnee moest herschreven worden: Herstart Ozzietest om te voltooien</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2882,8 +2882,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Ozziecoin Alert&quot; admin@fo
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. Ozziecoin is probably already running.</source>
-        <translation>Niet in staat om aan %s te binden op deze computer. Ozziecoin draait vermoedelijk reeds.</translation>
+        <source>Unable to bind to %s on this computer. Ozzietest is probably already running.</source>
+        <translation>Niet in staat om aan %s te binden op deze computer. Ozzietest draait vermoedelijk reeds.</translation>
     </message>
     <message>
         <location line="+64"/>

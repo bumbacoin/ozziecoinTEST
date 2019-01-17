@@ -1,4 +1,4 @@
-0.8.6.2 Ozziecoin initial version 
+0.8.6.2 Ozzietest initial version 
 ====================================
 
 

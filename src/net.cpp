@@ -1116,7 +1116,7 @@ void ThreadMapPort()
             }
         }
 
-        string strDesc = "Ozziecoin " + FormatFullVersion();
+        string strDesc = "Ozzietest " + FormatFullVersion();
 
         try {
             loop {
@@ -1265,8 +1265,8 @@ static const char *strMainNetDNSSeed[][2] = {
 };
 
 // below are the old seed ip addresses - preserved for archival purposes ...
-//    {"ozziecoin.com", "seed1.ozziecoin.com"},
-//	{"ozziecoin.com", "seed2.ozziecoin.com"},
+//    {"ozzietest.com", "seed1.ozzietest.com"},
+//	{"ozzietest.com", "seed2.ozzietest.com"},
 
 
 static const char *strTestNetDNSSeed[][2] = {
@@ -1752,7 +1752,7 @@ bool BindListenPort(const CService &addrBind, string& strError)
     {
         int nErr = WSAGetLastError();
         if (nErr == WSAEADDRINUSE)
-            strError = strprintf(_("Unable to bind to %s on this computer. Ozziecoin is probably already running."), addrBind.ToString().c_str());
+            strError = strprintf(_("Unable to bind to %s on this computer. Ozzietest is probably already running."), addrBind.ToString().c_str());
         else
             strError = strprintf(_("Unable to bind to %s on this computer (bind returned error %d, %s)"), addrBind.ToString().c_str(), nErr, strerror(nErr));
         printf("%s\n", strError.c_str());

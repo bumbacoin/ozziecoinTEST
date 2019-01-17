@@ -2,7 +2,7 @@
 
 OzzieTEST 
 
-this is a client based on ozziecoin operating on the ozc testnet as it's mainnet.
+this is a client based on ozzietest operating on the ozc testnet as it's mainnet.
 
 port = 39153
 rpcport = 39152

@@ -114,10 +114,10 @@ OBJS= \
     obj/simd.o \
     obj/checkpointsync.o
 
-all: ozziecoind.exe
+all: ozzietestd.exe
 
-test check: test_ozziecoin.exe FORCE
-	test_ozziecoin.exe
+test check: test_ozzietest.exe FORCE
+	test_ozzietest.exe
 
 #
 # LevelDB support
@@ -137,7 +137,7 @@ obj/%.o: %.cpp $(HEADERS)
 obj/%.o: %.c $(HEADERS)
 	$(CXX) -c $(CFLAGS) -fpermissive -o $@ $<
 
-ozziecoind.exe: $(OBJS:obj/%=obj/%)
+ozzietestd.exe: $(OBJS:obj/%=obj/%)
 	$(CXX) $(CFLAGS) $(LDFLAGS) -o $@ $(LIBPATHS) $^ $(LIBS)
 
 TESTOBJS := $(patsubst test/%.cpp,obj-test/%.o,$(wildcard test/*.cpp))
@@ -145,11 +145,11 @@ TESTOBJS := $(patsubst test/%.cpp,obj-test/%.o,$(wildcard test/*.cpp))
 obj-test/%.o: test/%.cpp $(HEADERS)
 	$(CXX) -c $(TESTDEFS) $(CFLAGS) -o $@ $<
 
-test_ozziecoin.exe: $(TESTOBJS) $(filter-out obj/init.o,$(OBJS:obj/%=obj/%))
+test_ozzietest.exe: $(TESTOBJS) $(filter-out obj/init.o,$(OBJS:obj/%=obj/%))
 	$(CXX) $(CFLAGS) $(LDFLAGS) -o $@ $(LIBPATHS) $^ -lboost_unit_test_framework$(BOOST_SUFFIX) $(LIBS)
 
 clean:
-	rm -f ozziecoind.exe test_ozziecoin.exe
+	rm -f ozzietestd.exe test_ozzietest.exe
 	rm -f obj/*
 	rm -f obj-test/*
 	cd leveldb && $(MAKE) TARGET_OS=NATIVE_WINDOWS clean && cd ..

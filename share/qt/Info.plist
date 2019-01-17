@@ -3,7 +3,7 @@
 <plist version="0.9">
 <dict>
 	<key>CFBundleIconFile</key>
-	<string>ozziecoin.icns</string>
+	<string>ozzietest.icns</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleGetInfoString</key>
@@ -15,19 +15,19 @@
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleExecutable</key>
-	<string>Ozziecoin-Qt</string>
+	<string>Ozzietest-Qt</string>
 	<key>CFBundleIdentifier</key>
-	<string>org.ozziecoin.Ozziecoin-Qt</string>
+	<string>org.ozzietest.Ozzietest-Qt</string>
         <key>CFBundleURLTypes</key>
         <array>
           <dict>
             <key>CFBundleTypeRole</key>
             <string>Editor</string>
             <key>CFBundleURLName</key>
-            <string>org.ozziecoin.OzziecoinPayment</string>
+            <string>org.ozzietest.OzzietestPayment</string>
             <key>CFBundleURLSchemes</key>
             <array>
-              <string>ozziecoin</string>
+              <string>ozzietest</string>
             </array>
           </dict>
         </array>
