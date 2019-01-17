@@ -2800,7 +2800,7 @@ bool LoadBlockIndex()
 bool InitBlockIndex() {
     // Check whether we're already initialized
     if (pindexGenesisBlock != NULL)
-        return false;
+        return true;
 
     // Use the provided setting for -txindex in the new database
     fTxIndex = GetBoolArg("-txindex", false);
@@ -2839,7 +2839,7 @@ bool InitBlockIndex() {
         printf("%s\n", hash.ToString().c_str());
         printf("%s\n", hashGenesisBlock.ToString().c_str());
         printf("%s\n", block.hashMerkleRoot.ToString().c_str());
-        assert(block.hashMerkleRoot == uint256("0xf1abd5f863fb36aa606e2c25312832a7cf9bc152a0a6239ad1bd726ccf28af7e"));
+//        assert(block.hashMerkleRoot == uint256("0xf1abd5f863fb36aa606e2c25312832a7cf9bc152a0a6239ad1bd726ccf28af7e"));
         block.print();
         assert(hash == hashGenesisBlock);
 
