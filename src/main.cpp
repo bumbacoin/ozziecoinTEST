@@ -1091,19 +1091,16 @@ int64 static GetBlockValue(int nBits, int nHeight, int64 nFees)
     /* fixed bug caused diff to not be correctly calculated */
     dDiff = ConvertBitsToDouble(nBits);
 	
-	int64 nSubsidy = 0;
-    if(nHeight > 1152) nSubsidy = 625;
-    if((nHeight >= 100)&&(nHeight <=1152 )) nSubsidy = 0;
-    if(nHeight < 100) nSubsidy = 115069000;
+	int64 nSubsidy = 100 * COIN;
+
 
     // printf("height %u diff %4.2f reward %i \n", nHeight, dDiff, nSubsidy);
-    nSubsidy *= COIN;
 
     return nSubsidy + nFees;
 }
 
 static const int64 nTargetTimespan = 24 * 60 * 60; // Ozziecoin: 1 day
-static const int64 nTargetSpacing = 2.5 * 60; // Ozziecoin: 2.5 minutes
+static const int64 nTargetSpacing =  60; // Ozziecoin: 2.5 minutes
 static const int64 nInterval = nTargetTimespan / nTargetSpacing; // 576
 
 //
@@ -3135,7 +3132,7 @@ bool static AlreadyHave(const CInv& inv)
 // The message start string is designed to be unlikely to occur in normal data.
 // The characters are rarely used upper ASCII, not valid as UTF-8, and produce
 // a large 4-byte int at any alignment.
-unsigned char pchMessageStart[4] = { 0xee, 0xb3, 0xa9, 0xce }; // Ozziecoin: increase each by adding 2 to bitcoin's value.
+unsigned char pchMessageStart[4] = { 0xef, 0xb4, 0xaa, 0xcf }; // Ozziecoin: increase each by adding 2 to bitcoin's value.
 
 
 void static ProcessGetData(CNode* pfrom)
