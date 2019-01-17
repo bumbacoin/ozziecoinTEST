@@ -32,7 +32,7 @@ CTxMemPool mempool;
 unsigned int nTransactionsUpdated = 0;
 
 map<uint256, CBlockIndex*> mapBlockIndex;
-uint256 hashGenesisBlock("0x000002fe93979a513c0ade8fa054ed4e4d07260705e692c6c3f5925f7476f1c7"); //mainnet
+uint256 hashGenesisBlock("0x00000d58cd88ba2c74c4e8f683b6882eaf5f68cc0d6b263427f71fa2447b5e86"); 
 
 static CBigNum bnProofOfWorkLimit(~uint256(0) >> 20); // Ozziecoin: starting difficulty is 1 / 2^12
 CBlockIndex* pindexGenesisBlock = NULL;
@@ -2786,12 +2786,8 @@ bool LoadBlockIndex()
         pchMessageStart[1] = 0xb4;
         pchMessageStart[2] = 0xaa;
         pchMessageStart[3] = 0xcf;
-        // CBlock(hash=00000bec10c5f36295d5edb139b4e5c3e1186482cbf2299d74c9d87958eb70cd, input=010000000000000000000000000000000000000000000000000000000000000000000000bedb0a3580602170a44a245bfe4e0f14dc91579f860c9a12fadc344232f7e9edd1ec4f53f0ff0f1ed7677ace, PoW=00000bec10c5f36295d5edb139b4e5c3e1186482cbf2299d74c9d87958eb70cd, ver=1, hashPrevBlock=0000000000000000000000000000000000000000000000000000000000000000, hashMerkleRoot=ede9f7324234dcfa129a0c869f5791dc140f4efe5b244aa470216080350adbbe, nTime=1397746897, nBits=1e0ffff0, nNonce=3464128471, vtx=1)
-        // CTransaction(hash=ede9f7324234dcfa129a0c869f5791dc140f4efe5b244aa470216080350adbbe, ver=1, vin.size=1, vout.size=1, nLockTime=0)
-        // CTxIn(COutPoint(0000000000000000000000000000000000000000000000000000000000000000, 4294967295), coinbase 04ffff001d01043d534d482031342f30342f32303134204c6f7720696e74657265737420726174657320686176652070756d7065642075702073686172656d61726b657473)
-        // CTxOut(nValue=1250.00000000, scriptPubKey=040184710fa689ad5023690c80f3a4)
-        // vMerkleTree: ede9f7324234dcfa129a0c869f5791dc140f4efe5b244aa470216080350adbbe 
         hashGenesisBlock = uint256("0x0000039811e740552fd32f2b6c2497485c62f4c8b785791eb79394c1a60853aa");
+      
     }
 
     //
@@ -2807,7 +2803,7 @@ bool LoadBlockIndex()
 bool InitBlockIndex() {
     // Check whether we're already initialized
     if (pindexGenesisBlock != NULL)
-        return true;
+        return false;
 
     // Use the provided setting for -txindex in the new database
     fTxIndex = GetBoolArg("-txindex", false);
@@ -2817,11 +2813,6 @@ bool InitBlockIndex() {
     // Only add the genesis block if not reindexing (in which case we reuse the one already on disk)
     if (!fReindex) {
         // Genesis Block:
-        // CBlock(hash=0000041a42c085e191af5b2ee3524ce45b5c6368db30c5285e12c525139c2d31, input=010000000000000000000000000000000000000000000000000000000000000000000000bedb0a3580602170a44a245bfe4e0f14dc91579f860c9a12fadc344232f7e9edccea4f53f0ff0f1e06d6d745, PoW=0000041a42c085e191af5b2ee3524ce45b5c6368db30c5285e12c525139c2d31, ver=1, hashPrevBlock=0000000000000000000000000000000000000000000000000000000000000000, hashMerkleRoot=ede9f7324234dcfa129a0c869f5791dc140f4efe5b244aa470216080350adbbe, nTime=1397746380, nBits=1e0ffff0, nNonce=1171772934, vtx=1)
-        // CTransaction(hash=ede9f7324234dcfa129a0c869f5791dc140f4efe5b244aa470216080350adbbe, ver=1, vin.size=1, vout.size=1, nLockTime=0)
-        // CTxIn(COutPoint(0000000000000000000000000000000000000000000000000000000000000000, 4294967295), coinbase 04ffff001d01043d534d482031342f30342f32303134204c6f7720696e74657265737420726174657320686176652070756d7065642075702073686172656d61726b657473)
-        // CTxOut(nValue=1250.00000000, scriptPubKey=040184710fa689ad5023690c80f3a4)
-        // vMerkleTree: ede9f7324234dcfa129a0c869f5791dc140f4efe5b244aa470216080350adbbe 
 
         // Genesis block        
         const char* pszTimestamp = "Financial Times 25/04/2014 Obama and Abe fail to reach trade deal";
@@ -2836,9 +2827,9 @@ bool InitBlockIndex() {
         block.hashPrevBlock = 0;
         block.hashMerkleRoot = block.BuildMerkleTree();
         block.nVersion = 1;
-        block.nTime    = 1397746381;
+        block.nTime    = 1397746897;	// this code has been modified to run a testnet version as main net
         block.nBits    = 0x1e0ffff0;
-        block.nNonce   = 1172759397;
+        block.nNonce   = 3464641600;
 
         if (fTestNet)
         {
